@@ -3,8 +3,7 @@
   "name": "littlegiant/silverstripe-admin-text-length",
   "type": "silverstripe-vendormodule",
   "require": {
-    "silverstripe/vendor-plugin": "^1.0",
-    "silverstripe/admin": "^1.0"
+    "silverstripe/admin": "^1 || ^2"
   },
   "authors": [
     {
